@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visionary Financial Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #002147;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header img {
+            max-width: 150px;
+        }
+        header h1 {
+            margin: 10px 0;
+        }
+        header p {
+            font-size: 1.2em;
+        }
+        nav {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+                   margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #002147;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Visionary Financial Services Logo">
+        <h1>Visionary Financial Services</h1>
+        <p>Rooted in Small Town Values. Driven by Big City Vision.</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#industries">Industries</a>
+        <a href="#team">Team</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Visionary Financial Services is dedicated to providing top-notch financial advisory, audit, and tax services. Our firm is rooted in small town values, ensuring personalized attention and trust, while driven by big city vision to deliver innovative and comprehensive solutions.</p>
+    </section>
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Audit & Assurance</li>
+            <li>Tax Advisory</li>
+            <li>Consulting & Advisory</li>
+            <li>International Compliance</li>
+            <li>Strategic IT Planning</li>
+        </ul>
+    </section>
+    <section id="industries">
+        <h2>Industries We Serve</h2>
+        <ul>
+            <li>Industrials</li>
+            <li>Financial Services</li>
+            <li>Life Sciences</li>
+            <li>Consumer Products</li>
+            <li>Technology, Media & Telecommunications</li>
+            <li>Healthcare</li>
+            <li>Non-profit</li>
